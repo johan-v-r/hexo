@@ -4,8 +4,6 @@ date: 2018-01-26 18:11:03
 tags:
 ---
 
-# Xamarin Forms Chat Bot
-
 [Xamarin Dev Days in Cape Town](https://ti.to/xamarin/dev-days-cape-town-2017) introduced me to [Xamarin Forms](https://www.xamarin.com/forms), which basically allows you to share C# code accross native Android & iOS apps.  
 
 This app was targeted towards speech recognition. Having my own Android device and coding on Windows, I could really only build and test on Android. However, still worth keeping in mind that eventually this will need to result in an iOS app as well, so all NuGet packages and libraries will have to be usable in both projects.  
